@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://roshantambe.000webhostapp.com/](https://roshantambe.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://roshantambe.netlify.app/)
 
 - 💬 Ask me about **Html, Css, Python, Django, JavaScript, React.js, Gsap, Bootstrap**
 
